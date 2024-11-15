@@ -1,2 +1,2 @@
 # PaginaWeb-IA
-Mi primera pagina Web con el bootcamp de DEVF y Becalos.
+El siguiente proyecto es una pagina web HTML donde recopilo información sobre la Inteligencia Artificial.
